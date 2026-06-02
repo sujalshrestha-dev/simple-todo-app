@@ -94,6 +94,8 @@ http://localhost:8080
 simple-todo-app/
 ├── db/
 │   └── todo.sql                          # Database dump — import this first
+├── Screenshot/
+│   └── Simpletodo.png
 ├── src/
 │   └── main/
 │       ├── java/
@@ -124,7 +126,7 @@ simple-todo-app/
 
 ## Screenshots
 
-> Add your screenshots here.
+![Simple TODO App](Screenshot/Simpletodo.png)
 
 ---
 
